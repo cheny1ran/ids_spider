@@ -1,4 +1,4 @@
-# ids_spider
+# ids_spider(python2)
 python爬虫 用于抓取身份证前六位的省市区信息
 
 信息来自于：八九网（http://shenfenzheng.bajiu.cn/?daquan）
